@@ -58,9 +58,10 @@ width = int(input("Enter the breadth :"))
 
 area,perimeter = calc_rectangle(length, width)
 
-print(f"The area of rectangle is {perimeter}")
+print(f"The perimeter of rectangle is {perimeter}")
 print(f"The area of rectangle is {area}")
 
+#TASK 2
 
 
 
